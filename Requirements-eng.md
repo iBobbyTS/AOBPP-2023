@@ -1,18 +1,18 @@
-**We will be hosting a birthday party for Amber in 2023, if you also like Amber and want to support our event with your own strength, welcome to join us**! This page mainly describes the specific requirements for joining the studio and submitting work.
+**We will be hosting a birthday party for Amber in 2023. Whoever likes Amber is welcomed to make contribution to support our event with your own strength**! This page mainly describes the specific requirements for joining the studio and submitting work.
 
 ![](https://upload-bbs.mihoyo.com/upload/2022/10/28/291128880/9219653b686488fbca8e14d53c5b5048_6599060336183107483.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
 
 # 1. Amber Birthday Party Studio Recruitment Instructions
 
-**To participate in the production and preparation of the birthday party, you need to join the group chat of this birthday party studio. Various discussions and submissions about the birthday party are carried out in the group to cooperate with each other.**
+**It's essential to join our group chat of this birthday party studio, to submit your production and participate in the preparation of the birthday party. Various discussions and submissions about the birthday party are carried out in the group to cooperate with each other.**
 
 **Note: This group is not a chat group, please don't excessively chat about irrelevant content in the group.**
 
 **Participation requirements:**
 
-	- love Amber very much
+	- Amber-fanciers
 	
-	- Willing to donate your plans or works or materials for Amber's birthday party (2023)
+	- Willing to share your plans or works or materials for Amber's birthday party (2023)
 	
 	- Those who respect the rules of the network and the achievements of others
 
@@ -24,17 +24,17 @@ Group number: 569379388
 
 ### 1.2. For non-Chinese players:
 
-Please join the group using Discord, we will communicate and collaborate in the group.
+Please join the group by Discord, we will communicate and collaborate in the group.
 
 https://discord.gg/hFtj2pgX
 
 # 2. Artwork/Material Collection for Amber Birthday Party (2023)
 
-**The studio officially collects materials for Amber's birthday party from the majority of players. Those who have submitted a manuscript must join the studio group, which is a necessary condition for submission.**
+**The studio officially collects materials for Amber's birthday party from players. Those who have submitted a manuscript must join the studio group, which is necessary for submission.**
 
-The collection of materials is divided into three categories, each of which has different requirements. You can add and submit any works according to your own ability.
+The collection of materials is divided into three categories, each of which has different requirements. Then, put your effort to add and submit your works!
 
-**We promise to resolutely safeguard the rights and interests of participating authors. The submitted works are only used for birthday party display, and will never be stolen for illegal purposes!**
+**We promise to resolutely safeguard the rights and interests of envolving authors. The submitted works are only used for birthday party display, and will never be stolen for illegal purposes!**
 
 The following are the requirements for the three types of solicitations:
 
