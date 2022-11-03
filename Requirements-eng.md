@@ -26,7 +26,7 @@ Group number: 569379388
 
 Please join the group by Discord, we will communicate and collaborate in the group.
 
-https://discord.gg/hFtj2pgX
+https://discord.gg/k6cdNMuc9g
 
 # 2. Artwork/Material Collection for Amber Birthday Party (2023)
 
