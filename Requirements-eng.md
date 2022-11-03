@@ -38,7 +38,7 @@ The collection of materials is divided into three categories, each of which has 
 
 The following are the requirements for the three types of solicitations:
 
-## A. Amber Multiplayer Battle Mixed Cut
+## A. Amber Multiplayer Battle scene Mixed Cut
 
 **Intro:**
 
@@ -69,13 +69,14 @@ This is a gigantic Amber battle mix cut. It needs to edit Amber's in-game battle
 	
 	The material and video content meet the requirements
 	
-	The material is video, use standard video formats (such as mp4) as much as possible
+	Use standard video formats (such as mp4) as much as possible
 	
-	The material bit rate is above 7Mbps
+	The bit rate of the work should be above 7Mbps
 	
-	The resolution of the material should not be lower than 720P, preferably 4K
+	Image-quality of the material should not be lower than 720P, preferably 4K
 	
-	The game image quality in the material should not be lower than the medium image quality for mobile players, and the computer version should not be lower than the low image quality.
+	The game image quality in the material should not be lower than the medium image quality for mobile players, and the computer version 
+	should not be lower than the low image quality.
 	
 	The picture cannot have large blocks (excluding UID block, including subtitle stickers, etc.)
 
@@ -97,11 +98,11 @@ The video element material refers to the decorative elements of the Amber birthd
 
 	Video Transitions
 	
-	Work introduction (the introduction window that pops up in the corner of the video at the beginning when playing a work)
+	Single video intro (the introduction window that pops up in the corner of the video at the beginning)
 	
-	End the creator list screen
+	The creator list screen
 	
-	screen border
+	Framework of the video
 
 **The material needs to have Amber elements, the style is clear and active, and use more active typefaces. If you need to draw Amber, it'll make it better to draw cute ones**
 
