@@ -1,6 +1,6 @@
 **We will be hosting a birthday party for Amber in 2023. Whoever likes Amber is welcomed to make a contribution to support the event with your own strength**! This page mainly describes the specific requirements for joining the studio and submitting work.
 
-![](https://upload-bbs.mihoyo.com/upload/2022/10/28/291128880/9219653b686488fbca8e14d53c5b5048_6599060336183107483.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
+![](https://preview.redd.it/a745mixx2wx91.jpg?width=1333&format=pjpg&auto=webp&s=bd469a257d8b30e01e3304e0643e472b318f9e9e)
 
 # 1. Amber Birthday Party Studio Recruitment Instructions
 
