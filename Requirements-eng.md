@@ -172,6 +172,3 @@ Submit your own items to the Amber Birthday Party. The submission requirements f
 
 **Amber's birthday party will be held on August 10, 2023, and will be presented in the form of simultaneous live video works on Bilibili and Youtube. This birthday party is organized and planned by ﻿[@DaVinci2nd](https://bbs.mihoyo.com/ys/accountCenter/postList?id=291128880)﻿. Welcome to join us!**
 
-## FAQ
-
-This page is maintained by anti-scout knight. If you have any questions, please use the email address: 73dejason@gmail.com
