@@ -168,6 +168,3 @@ https://discord.gg/hFtj2pgX
 
 **安柏生日会将于2023年8月10日举行，以b站和Youtube同步直播视频作品的形式呈现。本次生日会由﻿[@DaVinci2nd](https://bbs.mihoyo.com/ys/accountCenter/postList?id=291128880) ﻿ 举办并策划。欢迎加入我们！**
 
-## FAQ
-
-本页面由反侦察骑士维护，如果有相关疑问等请使用邮箱联系：73dejason@gmail.com
