@@ -70,6 +70,8 @@ https://discord.gg/hFtj2pgX
 
 素材为视频，尽可能使用标准视频格式（如mp4）
 
+素材编码尽可能使用H264(AVC)或H265(HEVC)，避免使用VP9, AV1等
+
 素材码率在7Mbps以上
 
 素材分辨率不低于720P，以4K为佳
